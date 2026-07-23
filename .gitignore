@@ -1,0 +1,13 @@
+# https://dart.dev/tools/private-files
+# Created by `dart pub`
+.dart_tool/
+
+Evidencias/
+lib/
+test/
+analysis_options.yaml
+CHANGELOG.md
+pubspec.lock
+pubspec.yaml
+.dart_tool/
+README.md
